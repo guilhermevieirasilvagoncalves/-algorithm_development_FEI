@@ -1,10 +1,10 @@
-## laboratory classes files
+## Laboratory classes files
 This repository contains the codes developed in laboratory classes along the course "algorithm development" at centro universitario FEI
 
-## 🛠️ build with
+## 🛠️ Build with
 * [Replit](https://replit.com) - IDE
 
-## 📄 Licença
+## 📄 License
 This project is under license (MIT License) - see the [LICENSE.md] file (https://github.com/guilhermevieirasilvagoncalves/-algorithm_development_FEI/blob/main/LICENSE) for details.
 
 ---
