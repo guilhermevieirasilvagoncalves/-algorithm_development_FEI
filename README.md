@@ -2,7 +2,7 @@
 This repository contains the codes developed in laboratory classes along the course "algorithm development" at centro universitario FEI
 
 ## 🛠️ Build with
-* [Replit](https://replit.com) - IDE
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE
 
 ## 📄 License
 This project is under license (MIT License) - see the [LICENSE.md](https://github.com/guilhermevieirasilvagoncalves/-algorithm_development_FEI/blob/main/LICENSE) file for details.
